@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNamedArguments" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-06-27T11:37:36" hostname="Rajs-MacBook-Pro.local" time="0.02">
+  <properties/>
+  <testcase name="testJoinToString" classname="TestNamedArguments" time="0.02">
+    <failure message="org.junit.ComparisonFailure: The function 'joinOptions' is implemented incorrectly&#10; expected:&lt;[[yes, no, may be]]&gt; but was:&lt;[yes, no, may be]&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: The function 'joinOptions' is implemented incorrectly
+ expected:&lt;[[yes, no, may be]]&gt; but was:&lt;[yes, no, may be]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at TestNamedArguments.testJoinToString(tests.kt:9)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
