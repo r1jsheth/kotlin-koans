@@ -1,0 +1,1 @@
+/Users/rajsheth/Desktop/Personal/Code/Kotlin Koans/Introduction/Triple-quoted strings/build/classes/java/main/TaskKt.class
