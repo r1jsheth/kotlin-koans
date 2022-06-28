@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 87
-    length: 151
+    length: 140
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -23,5 +23,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVj
 status: Solved
 feedback:
   message: Congratulations!
-  time: Mon, 27 Jun 2022 12:56:31 UTC
+  time: Mon, 27 Jun 2022 13:31:32 UTC
 record: -1
